@@ -27,6 +27,7 @@ kafka_df = (
         .option("kafka.bootstrap.servers", "10.0.0.76:9092")
         .option("subscribe", "airquality.raw")
         .option("startingOffsets", "earliest")
+        .option("endingOffsets", "latest")
         .load()
 )
 
