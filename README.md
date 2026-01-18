@@ -235,7 +235,9 @@ The architecture is scalable and extensible to support longer observation period
 
 ## Authors
 
-- Abin Jacob   
+- Abin Jacob
+- Srinivasan Dhakshanamoorthy
+- Venkat Subbramani Anbalagan
 
 ---
 
