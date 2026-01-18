@@ -248,4 +248,5 @@ The architecture is scalable and extensible to support longer observation period
 
 ## GitHub Repository
 
-https://github.com/abinjacobvt/BigDataProjects
+https://github.com/abinjacobvt/AQI_BigDataProject
+
